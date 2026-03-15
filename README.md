@@ -82,9 +82,7 @@ Dashboard Highlights:
 
 ## **Dashboard Preview**
 
-```
-![Dashboard Screenshot](dashboard.png)
-```
+![Dashboard Screenshot](Customer_Behavior_dashboard.png)
 ---
 
 ## **Results**
