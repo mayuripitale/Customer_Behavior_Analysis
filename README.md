@@ -81,10 +81,10 @@ Dashboard Highlights:
 - Discount analysis
 
 ## **Dashboard Preview**
-The **Power BI dashboard** presents key insights through charts and visualizations, making it easier to understand customer behavior and sales patterns.
 
-The dashboard helps users explore the data and gain **data-driven insights**.
-
+```
+![Dashboard Screenshot](dashboard.png)
+```
 ---
 
 ## **Results**
